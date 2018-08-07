@@ -36,3 +36,4 @@ MIT © [l0aded]()
 [daviddm-url]: https://david-dm.org/l0aded/generator-simplyreact
 [coveralls-image]: https://coveralls.io/repos/l0aded/generator-simplyreact/badge.svg
 [coveralls-url]: https://coveralls.io/r/l0aded/generator-simplyreact
+# generator-simplyreact
